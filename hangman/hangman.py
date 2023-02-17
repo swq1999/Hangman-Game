@@ -12,7 +12,7 @@ done = False
 
 # loop
 while not done:
-    # Iterating over the wor
+    # Iterating over the word
     print("") # space
     for c in word:
         if c.upper() in chars:
