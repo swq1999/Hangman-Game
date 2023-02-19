@@ -5,10 +5,10 @@ The [words](hangman/words.txt) used in this program belong to [Xethron.](https:/
 
 ## Screenshots
 ### **After winning:**
-<img src="Data/hm1.png" alt="Calculator1" width="400" height="400">
+<img src="Data/hm1.png" alt="Calculator1" width="350" height="350">
 
 ### **After losing:**
-<img src="Data/hm2.png" alt="Calculator2" width="400" height="400">
+<img src="Data/hm2.png" alt="Calculator2" width="350" height="350">
 
 ### **After guessing same letter:**
-<img src="Data/hm3.png" alt="Calculator3" width="400" height="400">
+<img src="Data/hm3.png" alt="Calculator3" width="350" height="350">

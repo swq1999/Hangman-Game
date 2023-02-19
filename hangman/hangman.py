@@ -25,7 +25,7 @@ while not done:
     guess = input(f"Lives remaining: {lives}, Your guess: ").strip().upper()
     
     if guess in chars:
-        print("You have already guessed that letter.")
+        print("\nYou have already guessed that letter.😅")
     elif guess in word:
         chars.append(guess)
     else:
