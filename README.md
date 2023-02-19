@@ -10,5 +10,5 @@ The [words](hangman/words.txt) used in this program belong to [Xethron.](https:/
 ### **After losing:**
 <img src="Data/hm2.png" alt="Calculator2" width="400" height="400">
 
-### **After guessing same word:**
+### **After guessing same letter:**
 <img src="Data/hm3.png" alt="Calculator3" width="400" height="400">
